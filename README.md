@@ -1,5 +1,7 @@
 # cttr-psp-right-stick-camera
-Adds right-stick camera control to on-foot gameplay in Crash Tag Team Racing for PSP. Move with the left stick and look around with the right stick without holding R. The game's existing Inverted Aiming (U/D) preference is also supported, allowing players to toggle vertical right-stick camera inversion directly from the pause menu.
+Adds right-stick camera control to on-foot gameplay in Crash Tag Team Racing for PSP. 
+
+Move with the left stick and look around with the right stick without holding R. The game's existing Inverted Aiming (U/D) preference is also supported, allowing players to toggle vertical right-stick camera inversion directly from the pause menu.
 
 This patch supports PPSSPP and PS Vita via Adrenaline. The ZIP includes both xdelta patches, installation instructions, and checksums to identify the compatible clean game files.
 
